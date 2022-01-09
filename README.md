@@ -8,4 +8,4 @@ delete package-lock.json file
 run *$ npm install* in project directory to install dependencies
 # Run
 write
-* $ npm start* or *$ yarn start* to run the project
+*$ npm start* or *$ yarn start* to run the project
